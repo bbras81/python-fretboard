@@ -9,8 +9,7 @@ Fretboard is a python library for generating SVG fretboard images and chord char
 Install
 =======
 
-::
-
+:
     pip install fretboard
 
 Usage
